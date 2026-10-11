@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "10/10/2026 15:36:25",
+    "file": "WhatsApp Image 2026-10-10 at 2.53.29 PM.jpeg",
+    "occupied": 0,
+    "available": 8
+  },
+  {
+    "timestamp": "10/10/2026 15:44:36",
+    "file": "WhatsApp Image 2026-10-10 at 2.53.29 PM.jpeg",
+    "occupied": 1,
+    "available": 7
+  },
+  {
+    "timestamp": "10/10/2026 16:34:43",
+    "file": "WhatsApp Image 2026-10-10 at 2.53.29 PM.jpeg",
+    "occupied": 2,
+    "available": 6
+  },
+  {
+    "timestamp": "10/10/2026 16:36:40",
+    "file": "WhatsApp Image 2026-10-10 at 2.54.18 PM.jpeg",
+    "occupied": 5,
+    "available": 3
+  },
+  {
+    "timestamp": "11/10/2026 10:07:06",
+    "file": "WhatsApp Image 2026-10-10 at 2.54.18 PM.jpeg",
+    "occupied": 5,
+    "available": 3
+  }
+]
